@@ -1,0 +1,380 @@
+2018-09-12 14:44:23,269 INFO 4692 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-my\\beidou\\examples\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 14:44:23,312 INFO 4692 [egg-schedule]: register schedule E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 14:44:23,312 INFO 4692 [egg-schedule]: register schedule E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 14:44:24,076 INFO 4692 [egg-static] starting static serve /public/ -> E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\app\public
+2018-09-12 14:44:24,078 INFO 4692 [egg-security] use csrf middleware
+2018-09-12 14:44:24,079 INFO 4692 [egg-security] use methodnoallow middleware
+2018-09-12 14:44:24,080 INFO 4692 [egg-security] use noopen middleware
+2018-09-12 14:44:24,081 INFO 4692 [egg-security] use nosniff middleware
+2018-09-12 14:44:24,081 INFO 4692 [egg-security] use xssProtection middleware
+2018-09-12 14:44:24,082 INFO 4692 [egg-security] use xframe middleware
+2018-09-12 14:44:24,082 INFO 4692 [egg-security] use dta middleware
+2018-09-12 14:44:24,082 INFO 4692 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 14:44:24,615 INFO 4692 [egg:core] dump config after load, 7ms
+2018-09-12 14:44:24,629 INFO 4692 [egg-watcher:app] watcher start success
+2018-09-12 14:44:24,638 INFO 4692 [egg:core] dump config after ready, 7ms
+2018-09-12 16:00:47,423 INFO 14112 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-my\\beidou\\examples\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:00:47,456 INFO 14112 [egg-schedule]: register schedule E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:00:47,456 INFO 14112 [egg-schedule]: register schedule E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:00:47,930 INFO 14112 [egg-static] starting static serve /public/ -> E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\app\public
+2018-09-12 16:00:47,932 INFO 14112 [egg-security] use csrf middleware
+2018-09-12 16:00:47,933 INFO 14112 [egg-security] use methodnoallow middleware
+2018-09-12 16:00:47,933 INFO 14112 [egg-security] use noopen middleware
+2018-09-12 16:00:47,934 INFO 14112 [egg-security] use nosniff middleware
+2018-09-12 16:00:47,935 INFO 14112 [egg-security] use xssProtection middleware
+2018-09-12 16:00:47,935 INFO 14112 [egg-security] use xframe middleware
+2018-09-12 16:00:47,936 INFO 14112 [egg-security] use dta middleware
+2018-09-12 16:00:47,936 INFO 14112 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:00:48,004 INFO 14112 [egg:core] dump config after load, 8ms
+2018-09-12 16:00:48,067 INFO 14112 [egg-watcher:app] watcher start success
+2018-09-12 16:00:48,076 INFO 14112 [egg:core] dump config after ready, 7ms
+2018-09-12 16:07:30,875 INFO 5132 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-my\\beidou\\examples\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:07:30,913 INFO 5132 [egg-schedule]: register schedule E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:07:30,913 INFO 5132 [egg-schedule]: register schedule E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:07:31,367 INFO 5132 [egg-static] starting static serve /public/ -> E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\app\public
+2018-09-12 16:07:31,370 INFO 5132 [egg-security] use csrf middleware
+2018-09-12 16:07:31,371 INFO 5132 [egg-security] use methodnoallow middleware
+2018-09-12 16:07:31,371 INFO 5132 [egg-security] use noopen middleware
+2018-09-12 16:07:31,372 INFO 5132 [egg-security] use nosniff middleware
+2018-09-12 16:07:31,372 INFO 5132 [egg-security] use xssProtection middleware
+2018-09-12 16:07:31,373 INFO 5132 [egg-security] use xframe middleware
+2018-09-12 16:07:31,373 INFO 5132 [egg-security] use dta middleware
+2018-09-12 16:07:31,373 INFO 5132 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:07:31,437 INFO 5132 [egg:core] dump config after load, 7ms
+2018-09-12 16:07:31,449 INFO 5132 [egg-watcher:app] watcher start success
+2018-09-12 16:07:31,458 INFO 5132 [egg:core] dump config after ready, 7ms
+2018-09-12 16:24:34,244 INFO 12796 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-my\\beidou\\examples\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:24:34,283 INFO 12796 [egg-schedule]: register schedule E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:24:34,283 INFO 12796 [egg-schedule]: register schedule E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:24:34,754 INFO 12796 [egg-static] starting static serve /public/ -> E:\my-project\beidou-my\beidou\examples\react-redux-router-typescript\app\public
+2018-09-12 16:24:34,756 INFO 12796 [egg-security] use csrf middleware
+2018-09-12 16:24:34,757 INFO 12796 [egg-security] use methodnoallow middleware
+2018-09-12 16:24:34,758 INFO 12796 [egg-security] use noopen middleware
+2018-09-12 16:24:34,758 INFO 12796 [egg-security] use nosniff middleware
+2018-09-12 16:24:34,759 INFO 12796 [egg-security] use xssProtection middleware
+2018-09-12 16:24:34,759 INFO 12796 [egg-security] use xframe middleware
+2018-09-12 16:24:34,760 INFO 12796 [egg-security] use dta middleware
+2018-09-12 16:24:34,760 INFO 12796 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:24:34,844 INFO 12796 [egg:core] dump config after load, 8ms
+2018-09-12 16:24:34,857 INFO 12796 [egg-watcher:app] watcher start success
+2018-09-12 16:24:34,866 INFO 12796 [egg:core] dump config after ready, 7ms
+2018-09-12 16:31:58,778 INFO 852 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:31:58,819 INFO 852 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:31:58,819 INFO 852 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:31:59,716 INFO 852 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 16:31:59,719 INFO 852 [egg-security] use csrf middleware
+2018-09-12 16:31:59,720 INFO 852 [egg-security] use methodnoallow middleware
+2018-09-12 16:31:59,720 INFO 852 [egg-security] use noopen middleware
+2018-09-12 16:31:59,721 INFO 852 [egg-security] use nosniff middleware
+2018-09-12 16:31:59,722 INFO 852 [egg-security] use xssProtection middleware
+2018-09-12 16:31:59,722 INFO 852 [egg-security] use xframe middleware
+2018-09-12 16:31:59,723 INFO 852 [egg-security] use dta middleware
+2018-09-12 16:31:59,723 INFO 852 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:32:00,275 INFO 852 [egg:core] dump config after load, 10ms
+2018-09-12 16:32:00,293 INFO 852 [egg-watcher:app] watcher start success
+2018-09-12 16:32:00,312 INFO 852 [egg:core] dump config after ready, 17ms
+2018-09-12 16:41:09,435 INFO 17360 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:41:09,467 INFO 17360 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:41:09,467 INFO 17360 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:41:09,892 INFO 17360 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 16:41:09,895 INFO 17360 [egg-security] use csrf middleware
+2018-09-12 16:41:09,896 INFO 17360 [egg-security] use methodnoallow middleware
+2018-09-12 16:41:09,896 INFO 17360 [egg-security] use noopen middleware
+2018-09-12 16:41:09,897 INFO 17360 [egg-security] use nosniff middleware
+2018-09-12 16:41:09,898 INFO 17360 [egg-security] use xssProtection middleware
+2018-09-12 16:41:09,898 INFO 17360 [egg-security] use xframe middleware
+2018-09-12 16:41:09,898 INFO 17360 [egg-security] use dta middleware
+2018-09-12 16:41:09,898 INFO 17360 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:41:09,965 INFO 17360 [egg:core] dump config after load, 7ms
+2018-09-12 16:41:09,976 INFO 17360 [egg-watcher:app] watcher start success
+2018-09-12 16:41:09,985 INFO 17360 [egg:core] dump config after ready, 7ms
+2018-09-12 16:48:42,733 INFO 19448 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:48:42,768 INFO 19448 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:48:42,768 INFO 19448 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:48:43,183 INFO 19448 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 16:48:43,185 INFO 19448 [egg-security] use csrf middleware
+2018-09-12 16:48:43,186 INFO 19448 [egg-security] use methodnoallow middleware
+2018-09-12 16:48:43,186 INFO 19448 [egg-security] use noopen middleware
+2018-09-12 16:48:43,187 INFO 19448 [egg-security] use nosniff middleware
+2018-09-12 16:48:43,188 INFO 19448 [egg-security] use xssProtection middleware
+2018-09-12 16:48:43,188 INFO 19448 [egg-security] use xframe middleware
+2018-09-12 16:48:43,188 INFO 19448 [egg-security] use dta middleware
+2018-09-12 16:48:43,188 INFO 19448 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:48:44,969 INFO 19448 [egg:core] dump config after load, 8ms
+2018-09-12 16:48:44,981 INFO 19448 [egg-watcher:app] watcher start success
+2018-09-12 16:48:44,991 INFO 19448 [egg:core] dump config after ready, 8ms
+2018-09-12 16:50:22,123 INFO 11548 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:50:22,158 INFO 11548 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:50:22,158 INFO 11548 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:50:22,602 INFO 11548 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 16:50:22,604 INFO 11548 [egg-security] use csrf middleware
+2018-09-12 16:50:22,605 INFO 11548 [egg-security] use methodnoallow middleware
+2018-09-12 16:50:22,605 INFO 11548 [egg-security] use noopen middleware
+2018-09-12 16:50:22,606 INFO 11548 [egg-security] use nosniff middleware
+2018-09-12 16:50:22,606 INFO 11548 [egg-security] use xssProtection middleware
+2018-09-12 16:50:22,607 INFO 11548 [egg-security] use xframe middleware
+2018-09-12 16:50:22,607 INFO 11548 [egg-security] use dta middleware
+2018-09-12 16:50:22,607 INFO 11548 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:50:24,109 INFO 11548 [egg:core] dump config after load, 6ms
+2018-09-12 16:50:24,123 INFO 11548 [egg-watcher:app] watcher start success
+2018-09-12 16:50:24,133 INFO 11548 [egg:core] dump config after ready, 8ms
+2018-09-12 16:51:27,990 INFO 10976 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:51:28,026 INFO 10976 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:51:28,026 INFO 10976 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:51:28,460 INFO 10976 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 16:51:28,462 INFO 10976 [egg-security] use csrf middleware
+2018-09-12 16:51:28,463 INFO 10976 [egg-security] use methodnoallow middleware
+2018-09-12 16:51:28,464 INFO 10976 [egg-security] use noopen middleware
+2018-09-12 16:51:28,465 INFO 10976 [egg-security] use nosniff middleware
+2018-09-12 16:51:28,465 INFO 10976 [egg-security] use xssProtection middleware
+2018-09-12 16:51:28,465 INFO 10976 [egg-security] use xframe middleware
+2018-09-12 16:51:28,466 INFO 10976 [egg-security] use dta middleware
+2018-09-12 16:51:28,466 INFO 10976 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:51:29,860 INFO 10976 [egg:core] dump config after load, 7ms
+2018-09-12 16:51:29,874 INFO 10976 [egg-watcher:app] watcher start success
+2018-09-12 16:51:29,888 INFO 10976 [egg:core] dump config after ready, 13ms
+2018-09-12 16:52:00,643 INFO 9444 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:52:00,683 INFO 9444 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:52:00,683 INFO 9444 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:52:01,114 INFO 9444 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 16:52:01,116 INFO 9444 [egg-security] use csrf middleware
+2018-09-12 16:52:01,117 INFO 9444 [egg-security] use methodnoallow middleware
+2018-09-12 16:52:01,117 INFO 9444 [egg-security] use noopen middleware
+2018-09-12 16:52:01,118 INFO 9444 [egg-security] use nosniff middleware
+2018-09-12 16:52:01,119 INFO 9444 [egg-security] use xssProtection middleware
+2018-09-12 16:52:01,119 INFO 9444 [egg-security] use xframe middleware
+2018-09-12 16:52:01,120 INFO 9444 [egg-security] use dta middleware
+2018-09-12 16:52:01,120 INFO 9444 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:52:01,212 INFO 9444 [egg:core] dump config after load, 7ms
+2018-09-12 16:52:01,223 INFO 9444 [egg-watcher:app] watcher start success
+2018-09-12 16:52:01,232 INFO 9444 [egg:core] dump config after ready, 7ms
+2018-09-12 16:54:43,918 INFO 11676 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:54:43,954 INFO 11676 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:54:43,954 INFO 11676 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:54:44,388 INFO 11676 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 16:54:44,390 INFO 11676 [egg-security] use csrf middleware
+2018-09-12 16:54:44,391 INFO 11676 [egg-security] use methodnoallow middleware
+2018-09-12 16:54:44,391 INFO 11676 [egg-security] use noopen middleware
+2018-09-12 16:54:44,392 INFO 11676 [egg-security] use nosniff middleware
+2018-09-12 16:54:44,392 INFO 11676 [egg-security] use xssProtection middleware
+2018-09-12 16:54:44,393 INFO 11676 [egg-security] use xframe middleware
+2018-09-12 16:54:44,393 INFO 11676 [egg-security] use dta middleware
+2018-09-12 16:54:44,393 INFO 11676 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:54:45,815 INFO 11676 [egg:core] dump config after load, 6ms
+2018-09-12 16:54:45,827 INFO 11676 [egg-watcher:app] watcher start success
+2018-09-12 16:54:45,835 INFO 11676 [egg:core] dump config after ready, 7ms
+2018-09-12 16:54:52,629 INFO 16028 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:54:52,675 INFO 16028 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:54:52,675 INFO 16028 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:54:53,104 INFO 16028 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 16:54:53,106 INFO 16028 [egg-security] use csrf middleware
+2018-09-12 16:54:53,107 INFO 16028 [egg-security] use methodnoallow middleware
+2018-09-12 16:54:53,107 INFO 16028 [egg-security] use noopen middleware
+2018-09-12 16:54:53,108 INFO 16028 [egg-security] use nosniff middleware
+2018-09-12 16:54:53,108 INFO 16028 [egg-security] use xssProtection middleware
+2018-09-12 16:54:53,109 INFO 16028 [egg-security] use xframe middleware
+2018-09-12 16:54:53,109 INFO 16028 [egg-security] use dta middleware
+2018-09-12 16:54:53,109 INFO 16028 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:54:54,530 INFO 16028 [egg:core] dump config after load, 7ms
+2018-09-12 16:54:54,541 INFO 16028 [egg-watcher:app] watcher start success
+2018-09-12 16:54:54,551 INFO 16028 [egg:core] dump config after ready, 8ms
+2018-09-12 16:55:20,179 INFO 17672 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 16:55:20,215 INFO 17672 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 16:55:20,215 INFO 17672 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 16:55:20,661 INFO 17672 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 16:55:20,663 INFO 17672 [egg-security] use csrf middleware
+2018-09-12 16:55:20,664 INFO 17672 [egg-security] use methodnoallow middleware
+2018-09-12 16:55:20,665 INFO 17672 [egg-security] use noopen middleware
+2018-09-12 16:55:20,666 INFO 17672 [egg-security] use nosniff middleware
+2018-09-12 16:55:20,666 INFO 17672 [egg-security] use xssProtection middleware
+2018-09-12 16:55:20,667 INFO 17672 [egg-security] use xframe middleware
+2018-09-12 16:55:20,667 INFO 17672 [egg-security] use dta middleware
+2018-09-12 16:55:20,667 INFO 17672 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 16:55:20,766 INFO 17672 [egg:core] dump config after load, 7ms
+2018-09-12 16:55:20,778 INFO 17672 [egg-watcher:app] watcher start success
+2018-09-12 16:55:20,799 INFO 17672 [egg:core] dump config after ready, 19ms
+2018-09-12 17:00:35,786 INFO 14648 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:00:35,821 INFO 14648 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 17:00:35,821 INFO 14648 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 17:00:36,256 INFO 14648 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 17:00:36,259 INFO 14648 [egg-security] use csrf middleware
+2018-09-12 17:00:36,260 INFO 14648 [egg-security] use methodnoallow middleware
+2018-09-12 17:00:36,260 INFO 14648 [egg-security] use noopen middleware
+2018-09-12 17:00:36,261 INFO 14648 [egg-security] use nosniff middleware
+2018-09-12 17:00:36,261 INFO 14648 [egg-security] use xssProtection middleware
+2018-09-12 17:00:36,262 INFO 14648 [egg-security] use xframe middleware
+2018-09-12 17:00:36,262 INFO 14648 [egg-security] use dta middleware
+2018-09-12 17:00:36,262 INFO 14648 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:00:37,698 INFO 14648 [egg:core] dump config after load, 6ms
+2018-09-12 17:00:37,713 INFO 14648 [egg-watcher:app] watcher start success
+2018-09-12 17:00:37,737 INFO 14648 [egg:core] dump config after ready, 22ms
+2018-09-12 17:01:11,947 INFO 13676 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:01:11,981 INFO 13676 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 17:01:11,981 INFO 13676 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 17:01:12,403 INFO 13676 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 17:01:12,405 INFO 13676 [egg-security] use csrf middleware
+2018-09-12 17:01:12,406 INFO 13676 [egg-security] use methodnoallow middleware
+2018-09-12 17:01:12,406 INFO 13676 [egg-security] use noopen middleware
+2018-09-12 17:01:12,407 INFO 13676 [egg-security] use nosniff middleware
+2018-09-12 17:01:12,408 INFO 13676 [egg-security] use xssProtection middleware
+2018-09-12 17:01:12,408 INFO 13676 [egg-security] use xframe middleware
+2018-09-12 17:01:12,408 INFO 13676 [egg-security] use dta middleware
+2018-09-12 17:01:12,408 INFO 13676 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:01:14,022 INFO 13676 [egg:core] dump config after load, 6ms
+2018-09-12 17:01:14,033 INFO 13676 [egg-watcher:app] watcher start success
+2018-09-12 17:01:14,042 INFO 13676 [egg:core] dump config after ready, 7ms
+2018-09-12 17:08:04,558 INFO 388 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:08:04,591 INFO 388 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 17:08:04,591 INFO 388 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 17:08:05,015 INFO 388 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 17:08:05,017 INFO 388 [egg-security] use csrf middleware
+2018-09-12 17:08:05,018 INFO 388 [egg-security] use methodnoallow middleware
+2018-09-12 17:08:05,019 INFO 388 [egg-security] use noopen middleware
+2018-09-12 17:08:05,020 INFO 388 [egg-security] use nosniff middleware
+2018-09-12 17:08:05,020 INFO 388 [egg-security] use xssProtection middleware
+2018-09-12 17:08:05,020 INFO 388 [egg-security] use xframe middleware
+2018-09-12 17:08:05,021 INFO 388 [egg-security] use dta middleware
+2018-09-12 17:08:05,021 INFO 388 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:08:06,664 INFO 388 [egg:core] dump config after load, 7ms
+2018-09-12 17:08:06,675 INFO 388 [egg-watcher:app] watcher start success
+2018-09-12 17:08:06,685 INFO 388 [egg:core] dump config after ready, 8ms
+2018-09-12 17:24:58,245 INFO 16080 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:24:58,285 INFO 16080 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 17:24:58,285 INFO 16080 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 17:25:00,236 INFO 16080 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 17:25:00,238 INFO 16080 [egg-security] use csrf middleware
+2018-09-12 17:25:00,239 INFO 16080 [egg-security] use methodnoallow middleware
+2018-09-12 17:25:00,239 INFO 16080 [egg-security] use noopen middleware
+2018-09-12 17:25:00,240 INFO 16080 [egg-security] use nosniff middleware
+2018-09-12 17:25:00,241 INFO 16080 [egg-security] use xssProtection middleware
+2018-09-12 17:25:00,241 INFO 16080 [egg-security] use xframe middleware
+2018-09-12 17:25:00,241 INFO 16080 [egg-security] use dta middleware
+2018-09-12 17:25:00,241 INFO 16080 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:25:00,611 INFO 16080 [egg:core] dump config after load, 7ms
+2018-09-12 17:25:00,626 INFO 16080 [egg-watcher:app] watcher start success
+2018-09-12 17:25:00,641 INFO 16080 [egg:core] dump config after ready, 12ms
+2018-09-12 17:25:36,442 INFO 17216 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:25:36,476 INFO 17216 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 17:25:36,476 INFO 17216 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 17:25:36,997 INFO 17216 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 17:25:37,000 INFO 17216 [egg-security] use csrf middleware
+2018-09-12 17:25:37,001 INFO 17216 [egg-security] use methodnoallow middleware
+2018-09-12 17:25:37,001 INFO 17216 [egg-security] use noopen middleware
+2018-09-12 17:25:37,002 INFO 17216 [egg-security] use nosniff middleware
+2018-09-12 17:25:37,003 INFO 17216 [egg-security] use xssProtection middleware
+2018-09-12 17:25:37,003 INFO 17216 [egg-security] use xframe middleware
+2018-09-12 17:25:37,003 INFO 17216 [egg-security] use dta middleware
+2018-09-12 17:25:37,003 INFO 17216 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:25:38,549 INFO 17216 [egg:core] dump config after load, 7ms
+2018-09-12 17:25:38,561 INFO 17216 [egg-watcher:app] watcher start success
+2018-09-12 17:25:38,585 INFO 17216 [egg:core] dump config after ready, 22ms
+2018-09-12 17:26:05,843 INFO 15700 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:26:05,877 INFO 15700 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 17:26:05,877 INFO 15700 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 17:26:06,353 INFO 15700 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 17:26:06,355 INFO 15700 [egg-security] use csrf middleware
+2018-09-12 17:26:06,356 INFO 15700 [egg-security] use methodnoallow middleware
+2018-09-12 17:26:06,356 INFO 15700 [egg-security] use noopen middleware
+2018-09-12 17:26:06,357 INFO 15700 [egg-security] use nosniff middleware
+2018-09-12 17:26:06,358 INFO 15700 [egg-security] use xssProtection middleware
+2018-09-12 17:26:06,358 INFO 15700 [egg-security] use xframe middleware
+2018-09-12 17:26:06,359 INFO 15700 [egg-security] use dta middleware
+2018-09-12 17:26:06,359 INFO 15700 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:26:08,015 INFO 15700 [egg:core] dump config after load, 6ms
+2018-09-12 17:26:08,029 INFO 15700 [egg-watcher:app] watcher start success
+2018-09-12 17:26:08,038 INFO 15700 [egg:core] dump config after ready, 7ms
+2018-09-12 17:40:23,125 INFO 11216 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:40:23,162 INFO 11216 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 17:40:23,162 INFO 11216 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 17:40:24,180 INFO 11216 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 17:40:24,182 INFO 11216 [egg-security] use csrf middleware
+2018-09-12 17:40:24,183 INFO 11216 [egg-security] use methodnoallow middleware
+2018-09-12 17:40:24,184 INFO 11216 [egg-security] use noopen middleware
+2018-09-12 17:40:24,184 INFO 11216 [egg-security] use nosniff middleware
+2018-09-12 17:40:24,185 INFO 11216 [egg-security] use xssProtection middleware
+2018-09-12 17:40:24,185 INFO 11216 [egg-security] use xframe middleware
+2018-09-12 17:40:24,186 INFO 11216 [egg-security] use dta middleware
+2018-09-12 17:40:24,186 INFO 11216 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:40:25,174 INFO 11216 [egg:core] dump config after load, 6ms
+2018-09-12 17:40:25,188 INFO 11216 [egg-watcher:app] watcher start success
+2018-09-12 17:40:25,196 INFO 11216 [egg:core] dump config after ready, 7ms
+2018-09-12 17:44:00,184 INFO 15052 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:44:00,225 INFO 15052 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 17:44:00,225 INFO 15052 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 17:44:01,379 INFO 15052 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 17:44:01,381 INFO 15052 [egg-security] use csrf middleware
+2018-09-12 17:44:01,382 INFO 15052 [egg-security] use methodnoallow middleware
+2018-09-12 17:44:01,382 INFO 15052 [egg-security] use noopen middleware
+2018-09-12 17:44:01,383 INFO 15052 [egg-security] use nosniff middleware
+2018-09-12 17:44:01,384 INFO 15052 [egg-security] use xssProtection middleware
+2018-09-12 17:44:01,385 INFO 15052 [egg-security] use xframe middleware
+2018-09-12 17:44:01,385 INFO 15052 [egg-security] use dta middleware
+2018-09-12 17:44:01,385 INFO 15052 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:44:02,400 INFO 15052 [egg:core] dump config after load, 7ms
+2018-09-12 17:44:02,415 INFO 15052 [egg-watcher:app] watcher start success
+2018-09-12 17:44:02,425 INFO 15052 [egg:core] dump config after ready, 7ms
+2018-09-12 17:50:18,986 INFO 9356 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:50:19,020 INFO 9356 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 17:50:19,020 INFO 9356 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 17:50:20,024 INFO 9356 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 17:50:20,026 INFO 9356 [egg-security] use csrf middleware
+2018-09-12 17:50:20,027 INFO 9356 [egg-security] use methodnoallow middleware
+2018-09-12 17:50:20,027 INFO 9356 [egg-security] use noopen middleware
+2018-09-12 17:50:20,028 INFO 9356 [egg-security] use nosniff middleware
+2018-09-12 17:50:20,029 INFO 9356 [egg-security] use xssProtection middleware
+2018-09-12 17:50:20,029 INFO 9356 [egg-security] use xframe middleware
+2018-09-12 17:50:20,030 INFO 9356 [egg-security] use dta middleware
+2018-09-12 17:50:20,030 INFO 9356 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:50:21,016 INFO 9356 [egg:core] dump config after load, 6ms
+2018-09-12 17:50:21,030 INFO 9356 [egg-watcher:app] watcher start success
+2018-09-12 17:50:21,042 INFO 9356 [egg:core] dump config after ready, 11ms
+2018-09-12 17:51:49,082 INFO 6808 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:51:49,115 INFO 6808 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 17:51:49,115 INFO 6808 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 17:51:49,558 INFO 6808 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 17:51:49,560 INFO 6808 [egg-security] use csrf middleware
+2018-09-12 17:51:49,561 INFO 6808 [egg-security] use methodnoallow middleware
+2018-09-12 17:51:49,562 INFO 6808 [egg-security] use noopen middleware
+2018-09-12 17:51:49,562 INFO 6808 [egg-security] use nosniff middleware
+2018-09-12 17:51:49,563 INFO 6808 [egg-security] use xssProtection middleware
+2018-09-12 17:51:49,563 INFO 6808 [egg-security] use xframe middleware
+2018-09-12 17:51:49,564 INFO 6808 [egg-security] use dta middleware
+2018-09-12 17:51:49,564 INFO 6808 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:51:49,661 INFO 6808 [egg:core] dump config after load, 7ms
+2018-09-12 17:51:49,675 INFO 6808 [egg-watcher:app] watcher start success
+2018-09-12 17:51:49,689 INFO 6808 [egg:core] dump config after ready, 12ms
+2018-09-12 18:09:15,177 INFO 6048 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 18:09:15,209 INFO 6048 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 18:09:15,209 INFO 6048 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 18:09:15,642 INFO 6048 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 18:09:15,644 INFO 6048 [egg-security] use csrf middleware
+2018-09-12 18:09:15,645 INFO 6048 [egg-security] use methodnoallow middleware
+2018-09-12 18:09:15,645 INFO 6048 [egg-security] use noopen middleware
+2018-09-12 18:09:15,646 INFO 6048 [egg-security] use nosniff middleware
+2018-09-12 18:09:15,647 INFO 6048 [egg-security] use xssProtection middleware
+2018-09-12 18:09:15,647 INFO 6048 [egg-security] use xframe middleware
+2018-09-12 18:09:15,647 INFO 6048 [egg-security] use dta middleware
+2018-09-12 18:09:15,647 INFO 6048 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 18:09:15,740 INFO 6048 [egg:core] dump config after load, 7ms
+2018-09-12 18:09:15,753 INFO 6048 [egg-watcher:app] watcher start success
+2018-09-12 18:09:15,763 INFO 6048 [egg:core] dump config after ready, 8ms
+2018-09-12 18:12:06,834 INFO 14444 [egg:logger] init all loggers with options: {"dir":"E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-redux-router-typescript-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 18:12:06,875 INFO 14444 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-09-12 18:12:06,875 INFO 14444 [egg-schedule]: register schedule E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-12 18:12:07,320 INFO 14444 [egg-static] starting static serve /public/ -> E:\my-project\beidou-1000\react-redux-router-typescript\app\public
+2018-09-12 18:12:07,322 INFO 14444 [egg-security] use csrf middleware
+2018-09-12 18:12:07,323 INFO 14444 [egg-security] use methodnoallow middleware
+2018-09-12 18:12:07,323 INFO 14444 [egg-security] use noopen middleware
+2018-09-12 18:12:07,324 INFO 14444 [egg-security] use nosniff middleware
+2018-09-12 18:12:07,325 INFO 14444 [egg-security] use xssProtection middleware
+2018-09-12 18:12:07,325 INFO 14444 [egg-security] use xframe middleware
+2018-09-12 18:12:07,325 INFO 14444 [egg-security] use dta middleware
+2018-09-12 18:12:07,325 INFO 14444 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 18:12:07,427 INFO 14444 [egg:core] dump config after load, 7ms
+2018-09-12 18:12:07,448 INFO 14444 [egg-watcher:app] watcher start success
+2018-09-12 18:12:07,457 INFO 14444 [egg:core] dump config after ready, 8ms
+2018-09-13 00:00:00,075 INFO 14444 [egg-logrotator] clean all log before 31 days
+2018-09-13 00:00:00,076 INFO 14444 [-/127.0.0.1/-/22ms SCHEDULE /__schedule?path=E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js&type=worker&cron=0%200%20*%20*%20*] [egg-schedule] E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 21ms
+2018-09-13 00:00:01,019 INFO 14444 [egg-logrotator] broadcast log-reload
+2018-09-13 00:00:01,020 INFO 14444 [egg-logrotator] rotate files success by DayRotator, files ["E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript\\common-error.log -> E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript\\common-error.log.2018-09-12","E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript\\react-redux-router-typescript-web.log -> E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript\\react-redux-router-typescript-web.log.2018-09-12","E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript\\egg-web.log -> E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript\\egg-web.log.2018-09-12","E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript\\egg-schedule.log -> E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript\\egg-schedule.log.2018-09-12","E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript\\egg-agent.log -> E:\\my-project\\beidou-1000\\react-redux-router-typescript\\logs\\react-redux-router-typescript\\egg-agent.log.2018-09-12"]
+2018-09-13 00:00:01,020 INFO 14444 [-/127.0.0.1/-/16ms SCHEDULE /__schedule?path=E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [egg-schedule] E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 16ms

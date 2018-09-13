@@ -1,0 +1,113 @@
+2018-09-12 14:44:23,339 INFO 4692 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-my\\beidou\\examples\\react-redux-router-typescript\\client' }
+2018-09-12 14:44:24,615 INFO 4692 [Beidou App] App Worker started, pid is 4692
+2018-09-12 14:45:45,716 INFO 4692 [-/::1/-/19ms GET /] [service.contact] Fetch data
+2018-09-12 14:46:07,790 INFO 4692 [-/::1/-/3ms GET /dynamic] [service.contact] Fetch data
+2018-09-12 15:01:09,893 INFO 4692 [-/::1/-/5ms GET /topics/components] [service.contact] Fetch data
+2018-09-12 16:00:47,478 INFO 14112 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-my\\beidou\\examples\\react-redux-router-typescript\\client' }
+2018-09-12 16:00:48,004 INFO 14112 [Beidou App] App Worker started, pid is 14112
+2018-09-12 16:01:09,834 INFO 14112 [-/127.0.0.1/-/29ms GET /] [service.contact] Fetch data
+2018-09-12 16:01:19,504 INFO 14112 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:03:48,320 INFO 14112 [-/127.0.0.1/-/5ms GET /test] [service.contact] Fetch data
+2018-09-12 16:04:13,541 INFO 14112 [-/127.0.0.1/-/6ms GET /] [service.contact] Fetch data
+2018-09-12 16:05:39,775 INFO 14112 [-/::1/-/6ms GET /public/35353f8e35966a635b32.hot-update.json] [service.contact] Fetch data
+2018-09-12 16:06:18,433 INFO 14112 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:06:25,737 INFO 14112 [-/127.0.0.1/-/4ms GET /] [service.contact] Fetch data
+2018-09-12 16:07:11,615 INFO 14112 [-/127.0.0.1/-/3ms GET /test] [service.contact] Fetch data
+2018-09-12 16:07:12,926 INFO 14112 [-/127.0.0.1/-/3ms GET /test] [service.contact] Fetch data
+2018-09-12 16:07:16,264 INFO 14112 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 16:07:30,935 INFO 5132 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-my\\beidou\\examples\\react-redux-router-typescript\\client' }
+2018-09-12 16:07:31,437 INFO 5132 [Beidou App] App Worker started, pid is 5132
+2018-09-12 16:07:31,572 INFO 5132 [-/127.0.0.1/-/22ms GET /public/49896898f3b2feeb349d.hot-update.json] [service.contact] Fetch data
+2018-09-12 16:07:35,962 INFO 5132 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:07:43,045 INFO 5132 [-/127.0.0.1/-/3ms GET /] [service.contact] Fetch data
+2018-09-12 16:07:52,226 INFO 5132 [-/127.0.0.1/-/15ms GET /test] [service.contact] Fetch data
+2018-09-12 16:07:57,363 INFO 5132 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:08:03,574 INFO 5132 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:08:12,744 INFO 5132 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:08:23,074 INFO 5132 [-/127.0.0.1/-/4ms GET /] [service.contact] Fetch data
+2018-09-12 16:08:28,434 INFO 5132 [-/127.0.0.1/-/3ms GET /test] [service.contact] Fetch data
+2018-09-12 16:24:00,533 INFO 5132 [-/127.0.0.1/-/3ms GET /test] [service.contact] Fetch data
+2018-09-12 16:24:02,571 INFO 5132 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:24:07,290 INFO 5132 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:24:11,447 INFO 5132 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 16:24:34,313 INFO 12796 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-my\\beidou\\examples\\react-redux-router-typescript\\client' }
+2018-09-12 16:24:34,844 INFO 12796 [Beidou App] App Worker started, pid is 12796
+2018-09-12 16:24:35,098 INFO 12796 [-/127.0.0.1/-/21ms GET /test] [service.contact] Fetch data
+2018-09-12 16:24:40,893 INFO 12796 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:24:44,293 INFO 12796 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:31:58,840 INFO 852 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 16:32:00,275 INFO 852 [Beidou App] App Worker started, pid is 852
+2018-09-12 16:32:06,060 INFO 852 [-/127.0.0.1/-/36ms GET /test] [service.contact] Fetch data
+2018-09-12 16:32:09,648 INFO 852 [-/127.0.0.1/-/4ms GET /test] [service.contact] Fetch data
+2018-09-12 16:41:09,487 INFO 17360 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 16:41:09,965 INFO 17360 [Beidou App] App Worker started, pid is 17360
+2018-09-12 16:43:53,094 INFO 17360 [-/127.0.0.1/-/8ms GET /test] [service.contact] Fetch data
+2018-09-12 16:48:42,789 INFO 19448 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 16:48:44,969 INFO 19448 [Beidou App] App Worker started, pid is 19448
+2018-09-12 16:48:47,770 INFO 19448 [-/127.0.0.1/-/19ms GET /api] [service.contact] Fetch data
+2018-09-12 16:49:31,553 INFO 19448 [-/127.0.0.1/-/5ms GET /api] [service.contact] Fetch data
+2018-09-12 16:49:38,068 INFO 19448 [-/127.0.0.1/-/2ms GET /api] [service.contact] Fetch data
+2018-09-12 16:50:22,185 INFO 11548 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 16:50:24,109 INFO 11548 [Beidou App] App Worker started, pid is 11548
+2018-09-12 16:51:28,047 INFO 10976 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 16:51:29,860 INFO 10976 [Beidou App] App Worker started, pid is 10976
+2018-09-12 16:52:00,705 INFO 9444 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 16:52:01,212 INFO 9444 [Beidou App] App Worker started, pid is 9444
+2018-09-12 16:54:43,977 INFO 11676 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 16:54:45,815 INFO 11676 [Beidou App] App Worker started, pid is 11676
+2018-09-12 16:54:51,460 INFO 11676 [-/127.0.0.1/-/27ms GET /api/55] [service.contact] Fetch data
+2018-09-12 16:54:52,696 INFO 16028 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 16:54:54,530 INFO 16028 [Beidou App] App Worker started, pid is 16028
+2018-09-12 16:55:03,853 INFO 16028 [-/127.0.0.1/-/19ms GET /api/55] [service.contact] Fetch data
+2018-09-12 16:55:20,242 INFO 17672 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 16:55:20,766 INFO 17672 [Beidou App] App Worker started, pid is 17672
+2018-09-12 17:00:35,846 INFO 14648 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 17:00:37,699 INFO 14648 [Beidou App] App Worker started, pid is 14648
+2018-09-12 17:01:12,567 INFO 14648 [-/127.0.0.1/-/7ms GET /] [service.contact] Fetch data
+2018-09-12 17:01:12,002 INFO 13676 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 17:01:14,022 INFO 13676 [Beidou App] App Worker started, pid is 13676
+2018-09-12 17:03:57,882 INFO 13676 [-/127.0.0.1/-/8ms GET /] [service.contact] Fetch data
+2018-09-12 17:08:04,612 INFO 388 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 17:08:06,664 INFO 388 [Beidou App] App Worker started, pid is 388
+2018-09-12 17:24:58,310 INFO 16080 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 17:25:00,611 INFO 16080 [Beidou App] App Worker started, pid is 16080
+2018-09-12 17:25:36,497 INFO 17216 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 17:25:38,549 INFO 17216 [Beidou App] App Worker started, pid is 17216
+2018-09-12 17:26:05,901 INFO 15700 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 17:26:08,015 INFO 15700 [Beidou App] App Worker started, pid is 15700
+2018-09-12 17:33:43,610 INFO 15700 [-/127.0.0.1/-/7ms GET /] [service.contact] Fetch data
+2018-09-12 17:33:47,015 INFO 15700 [-/127.0.0.1/-/3ms GET /test] [service.contact] Fetch data
+2018-09-12 17:33:48,474 INFO 15700 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 17:33:56,199 INFO 15700 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 17:33:57,207 INFO 15700 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 17:33:58,295 INFO 15700 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 17:33:59,111 INFO 15700 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 17:34:25,486 INFO 15700 [-/127.0.0.1/-/3ms GET /test] [service.contact] Fetch data
+2018-09-12 17:34:26,669 INFO 15700 [-/127.0.0.1/-/3ms GET /test] [service.contact] Fetch data
+2018-09-12 17:34:27,669 INFO 15700 [-/127.0.0.1/-/3ms GET /test] [service.contact] Fetch data
+2018-09-12 17:34:28,883 INFO 15700 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 17:34:30,222 INFO 15700 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 17:34:31,229 INFO 15700 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 17:40:23,183 INFO 11216 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 17:40:25,174 INFO 11216 [Beidou App] App Worker started, pid is 11216
+2018-09-12 17:40:28,297 INFO 11216 [-/127.0.0.1/-/21ms GET /test] [service.contact] Fetch data
+2018-09-12 17:44:00,248 INFO 15052 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 17:44:02,400 INFO 15052 [Beidou App] App Worker started, pid is 15052
+2018-09-12 17:44:04,306 INFO 15052 [-/127.0.0.1/-/26ms GET /test] [service.contact] Fetch data
+2018-09-12 17:50:19,049 INFO 9356 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 17:50:21,016 INFO 9356 [Beidou App] App Worker started, pid is 9356
+2018-09-12 17:51:26,337 INFO 9356 [-/127.0.0.1/-/6ms GET /] [service.contact] Fetch data
+2018-09-12 17:51:49,140 INFO 6808 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 17:51:49,661 INFO 6808 [Beidou App] App Worker started, pid is 6808
+2018-09-12 17:51:50,152 INFO 6808 [-/127.0.0.1/-/23ms GET /public/abe7746664070a7d2cc1.hot-update.json] [service.contact] Fetch data
+2018-09-12 17:51:54,509 INFO 6808 [-/127.0.0.1/-/5ms GET /] [service.contact] Fetch data
+2018-09-12 17:51:59,586 INFO 6808 [-/127.0.0.1/-/3ms GET /] [service.contact] Fetch data
+2018-09-12 18:02:45,660 INFO 6808 [-/127.0.0.1/-/3ms GET /] [service.contact] Fetch data
+2018-09-12 18:06:16,165 INFO 6808 [-/127.0.0.1/-/3ms GET /test] [service.contact] Fetch data
+2018-09-12 18:07:30,060 INFO 6808 [-/127.0.0.1/-/2ms GET /test] [service.contact] Fetch data
+2018-09-12 18:09:15,234 INFO 6048 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 18:09:15,740 INFO 6048 [Beidou App] App Worker started, pid is 6048
+2018-09-12 18:09:16,228 INFO 6048 [-/127.0.0.1/-/22ms GET /public/d9e50923a9c98fc9c820.hot-update.json] [service.contact] Fetch data
+2018-09-12 18:12:06,899 INFO 14444 [beidou:isomorphic] isomorphic.alias detected: { client: 'E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client' }
+2018-09-12 18:12:07,427 INFO 14444 [Beidou App] App Worker started, pid is 14444
+2018-09-12 18:12:22,717 INFO 14444 [-/127.0.0.1/-/3ms GET /test] [service.contact] Fetch data

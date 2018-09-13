@@ -1,0 +1,671 @@
+{
+  "output": {
+    "path": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\app\\public",
+    "filename": "[name].js",
+    "publicPath": "/public/",
+    "chunkFilename": "[name].[chunkhash].js",
+    "library": "",
+    "hotUpdateFunction": "webpackHotUpdate",
+    "jsonpFunction": "webpackJsonp",
+    "libraryTarget": "var",
+    "sourceMapFilename": "[file].map[query]",
+    "hotUpdateChunkFilename": "[id].[hash].hot-update.js",
+    "hotUpdateMainFilename": "[hash].hot-update.json",
+    "crossOriginLoading": false,
+    "jsonpScriptType": "text/javascript",
+    "chunkLoadTimeout": 120000,
+    "hashFunction": "md5",
+    "hashDigest": "hex",
+    "hashDigestLength": 20,
+    "devtoolLineToLine": false,
+    "strictModuleExceptionHandling": false
+  },
+  "resolve": {
+    "extensions": [
+      ".json",
+      ".js",
+      ".jsx",
+      ".ts",
+      ".tsx"
+    ],
+    "alias": {
+      "client": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client"
+    },
+    "unsafeCache": true,
+    "modules": [
+      "node_modules"
+    ],
+    "mainFiles": [
+      "index"
+    ],
+    "aliasFields": [
+      "browser"
+    ],
+    "mainFields": [
+      "browser",
+      "module",
+      "main"
+    ],
+    "cacheWithContext": false
+  },
+  "devServer": {
+    "contentBase": false,
+    "port": 6002,
+    "noInfo": true,
+    "quiet": false,
+    "clientLogLevel": "warning",
+    "lazy": false,
+    "watchOptions": {
+      "aggregateTimeout": 300
+    },
+    "headers": {
+      "X-Custom-Header": "yes"
+    },
+    "stats": {
+      "colors": true,
+      "chunks": false,
+      "context": "E:\\my-project\\beidou-1000\\react-redux-router-typescript"
+    },
+    "publicPath": "/public/",
+    "hot": true
+  },
+  "bail": false,
+  "devtool": "eval",
+  "context": "E:\\my-project\\beidou-1000\\react-redux-router-typescript",
+  "entry": {
+    "index": [
+      "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\webpack-dev-server\\client\\index.js?http://0.0.0.0:6002",
+      "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\webpack\\hot\\only-dev-server.js",
+      "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\client\\page.tsx"
+    ]
+  },
+  "module": {
+    "strictExportPresence": true,
+    "rules": [
+      {
+        "test": "/\\.(js|jsx|mjs)$/",
+        "exclude": "/node_modules/",
+        "use": {
+          "loader": "babel-loader",
+          "options": {
+            "babelrc": false,
+            "presets": [
+              [
+                "@babel/preset-env",
+                {
+                  "targets": {
+                    "browsers": [
+                      ">1%",
+                      "last 4 versions",
+                      "not ie < 9"
+                    ]
+                  },
+                  "useBuiltIns": "entry",
+                  "modules": false
+                }
+              ],
+              "@babel/preset-stage-2",
+              [
+                "@babel/preset-react",
+                {
+                  "development": true,
+                  "useBuiltIns": true
+                }
+              ]
+            ],
+            "plugins": [],
+            "env": {
+              "development": {
+                "plugins": [
+                  "module:react-hot-loader/babel"
+                ]
+              }
+            },
+            "cacheDirectory": true,
+            "compact": false,
+            "highlightCode": true
+          }
+        }
+      },
+      {
+        "test": "/\\.css$/",
+        "exclude": "/\\.module\\.css$/",
+        "loader": [
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\extract-text-webpack-plugin\\dist\\loader.js",
+            "options": {
+              "omit": 1,
+              "remove": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\style-loader\\index.js",
+            "options": {
+              "hmr": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\css-loader\\index.js",
+            "options": {
+              "importLoaders": 1,
+              "minimize": false,
+              "sourceMap": true,
+              "modules": false
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\postcss-loader\\lib\\index.js",
+            "options": {
+              "ident": "postcss"
+            }
+          }
+        ]
+      },
+      {
+        "test": "/\\.module\\.css$/",
+        "loader": [
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\extract-text-webpack-plugin\\dist\\loader.js",
+            "options": {
+              "omit": 1,
+              "remove": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\style-loader\\index.js",
+            "options": {
+              "hmr": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\css-loader\\index.js",
+            "options": {
+              "importLoaders": 1,
+              "minimize": false,
+              "sourceMap": true,
+              "modules": true,
+              "localIdentName": "[local]_[hash:base64:5]"
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\postcss-loader\\lib\\index.js",
+            "options": {
+              "ident": "postcss"
+            }
+          }
+        ]
+      },
+      {
+        "test": "/\\.s(c|a)ss$/",
+        "exclude": "/\\.module\\.s(c|a)ss$/",
+        "use": [
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\extract-text-webpack-plugin\\dist\\loader.js",
+            "options": {
+              "omit": 1,
+              "remove": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\style-loader\\index.js",
+            "options": {
+              "hmr": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\css-loader\\index.js",
+            "options": {
+              "importLoaders": 1,
+              "minimize": false,
+              "sourceMap": true,
+              "modules": false
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\postcss-loader\\lib\\index.js",
+            "options": {
+              "ident": "postcss"
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\sass-loader\\lib\\loader.js"
+          }
+        ]
+      },
+      {
+        "test": "/\\.module\\.s(c|a)ss$/",
+        "use": [
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\extract-text-webpack-plugin\\dist\\loader.js",
+            "options": {
+              "omit": 1,
+              "remove": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\style-loader\\index.js",
+            "options": {
+              "hmr": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\css-loader\\index.js",
+            "options": {
+              "importLoaders": 1,
+              "minimize": false,
+              "sourceMap": true,
+              "modules": true,
+              "localIdentName": "[local]_[hash:base64:5]"
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\postcss-loader\\lib\\index.js",
+            "options": {
+              "ident": "postcss"
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\sass-loader\\lib\\loader.js"
+          }
+        ]
+      },
+      {
+        "test": "/\\.less$/",
+        "exclude": "/\\.module\\.less$/",
+        "use": [
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\extract-text-webpack-plugin\\dist\\loader.js",
+            "options": {
+              "omit": 1,
+              "remove": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\style-loader\\index.js",
+            "options": {
+              "hmr": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\css-loader\\index.js",
+            "options": {
+              "importLoaders": 1,
+              "minimize": false,
+              "sourceMap": true,
+              "modules": false
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\postcss-loader\\lib\\index.js",
+            "options": {
+              "ident": "postcss"
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\less-loader\\dist\\cjs.js",
+            "options": {
+              "javascriptEnabled": true
+            }
+          }
+        ]
+      },
+      {
+        "test": "/\\.module\\.less$/",
+        "use": [
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\extract-text-webpack-plugin\\dist\\loader.js",
+            "options": {
+              "omit": 1,
+              "remove": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\style-loader\\index.js",
+            "options": {
+              "hmr": true
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\css-loader\\index.js",
+            "options": {
+              "importLoaders": 1,
+              "minimize": false,
+              "sourceMap": true,
+              "modules": true,
+              "localIdentName": "[local]_[hash:base64:5]"
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\postcss-loader\\lib\\index.js",
+            "options": {
+              "ident": "postcss"
+            }
+          },
+          {
+            "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\less-loader\\dist\\cjs.js",
+            "options": {
+              "javascriptEnabled": true
+            }
+          }
+        ]
+      },
+      {
+        "test": [
+          "/\\.bmp$/",
+          "/\\.gif$/",
+          "/\\.jpe?g$/",
+          "/\\.png$/",
+          "/\\.webp$/"
+        ],
+        "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\url-loader\\index.js",
+        "options": {
+          "limit": 10000,
+          "name": "[name]-[hash:5].[ext]"
+        }
+      },
+      {
+        "test": [
+          "/\\.ico$/",
+          "/\\.svgz?$/",
+          "/\\.woff2?$/",
+          "/\\.otf$/",
+          "/\\.tiff?$/",
+          "/\\.ttf$/",
+          "/\\.eot$/",
+          "/\\.midi?$/"
+        ],
+        "loader": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\file-loader\\dist\\cjs.js",
+        "options": {
+          "name": "[name]-[hash:5].[ext]"
+        }
+      },
+      {
+        "test": "/\\.tsx?$/",
+        "exclude": "/node_modules/",
+        "use": [
+          {
+            "loader": "babel-loader",
+            "options": {
+              "babelrc": false,
+              "presets": [
+                [
+                  "@babel/preset-env",
+                  {
+                    "targets": {
+                      "browsers": [
+                        ">1%",
+                        "last 4 versions",
+                        "not ie < 9"
+                      ]
+                    },
+                    "useBuiltIns": "entry",
+                    "modules": false
+                  }
+                ],
+                "@babel/typescript",
+                [
+                  "@babel/preset-stage-2",
+                  {
+                    "decoratorsLegacy": true
+                  }
+                ],
+                [
+                  "@babel/preset-react",
+                  {
+                    "development": true,
+                    "useBuiltIns": true
+                  }
+                ]
+              ],
+              "plugins": [
+                [
+                  "@babel/transform-runtime",
+                  {
+                    "polyfill": false,
+                    "regenerator": true
+                  }
+                ]
+              ],
+              "env": {
+                "development": {
+                  "plugins": [
+                    "module:react-hot-loader/babel"
+                  ]
+                }
+              },
+              "cacheDirectory": true,
+              "compact": false,
+              "highlightCode": true
+            }
+          }
+        ]
+      }
+    ],
+    "unknownContextRequest": ".",
+    "unknownContextRegExp": false,
+    "unknownContextRecursive": true,
+    "unknownContextCritical": true,
+    "exprContextRequest": ".",
+    "exprContextRegExp": false,
+    "exprContextRecursive": true,
+    "exprContextCritical": true,
+    "wrappedContextRegExp": "/.*/",
+    "wrappedContextRecursive": true,
+    "wrappedContextCritical": false,
+    "strictThisContextOnImports": false,
+    "unsafeCache": true
+  },
+  "plugins": [
+    {
+      "<NoEmitOnErrorsPlugin>": {}
+    },
+    {
+      "<IsomorphicPlugin>": {
+        "options": {
+          "assetsFilePath": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\.isomorphic\\assets.json",
+          "assets": [
+            ".sass",
+            ".scss",
+            ".less",
+            ".css",
+            ".bmp",
+            ".gif",
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".webp",
+            ".ico",
+            ".woff",
+            ".woff2",
+            ".svg",
+            ".svgz",
+            ".otf",
+            ".tif",
+            ".tiff",
+            ".ttf",
+            ".eot",
+            ".mid",
+            ".midi"
+          ],
+          "context": "E:\\my-project\\beidou-1000\\react-redux-router-typescript"
+        },
+        "exts": {
+          ".sass": {
+            "ext": ".sass",
+            "exclude": "node_modules"
+          },
+          ".scss": {
+            "ext": ".scss",
+            "exclude": "node_modules"
+          },
+          ".less": {
+            "ext": ".less",
+            "exclude": "node_modules"
+          },
+          ".css": {
+            "ext": ".css",
+            "exclude": "node_modules"
+          },
+          ".bmp": {
+            "ext": ".bmp",
+            "exclude": "node_modules"
+          },
+          ".gif": {
+            "ext": ".gif",
+            "exclude": "node_modules"
+          },
+          ".jpg": {
+            "ext": ".jpg",
+            "exclude": "node_modules"
+          },
+          ".jpeg": {
+            "ext": ".jpeg",
+            "exclude": "node_modules"
+          },
+          ".png": {
+            "ext": ".png",
+            "exclude": "node_modules"
+          },
+          ".webp": {
+            "ext": ".webp",
+            "exclude": "node_modules"
+          },
+          ".ico": {
+            "ext": ".ico",
+            "exclude": "node_modules"
+          },
+          ".woff": {
+            "ext": ".woff",
+            "exclude": "node_modules"
+          },
+          ".woff2": {
+            "ext": ".woff2",
+            "exclude": "node_modules"
+          },
+          ".svg": {
+            "ext": ".svg",
+            "exclude": "node_modules"
+          },
+          ".svgz": {
+            "ext": ".svgz",
+            "exclude": "node_modules"
+          },
+          ".otf": {
+            "ext": ".otf",
+            "exclude": "node_modules"
+          },
+          ".tif": {
+            "ext": ".tif",
+            "exclude": "node_modules"
+          },
+          ".tiff": {
+            "ext": ".tiff",
+            "exclude": "node_modules"
+          },
+          ".ttf": {
+            "ext": ".ttf",
+            "exclude": "node_modules"
+          },
+          ".eot": {
+            "ext": ".eot",
+            "exclude": "node_modules"
+          },
+          ".mid": {
+            "ext": ".mid",
+            "exclude": "node_modules"
+          },
+          ".midi": {
+            "ext": ".midi",
+            "exclude": "node_modules"
+          }
+        },
+        "fs": {
+          "<MemoryFileSystem>": {
+            "data": {}
+          }
+        }
+      }
+    },
+    {
+      "<ExtractTextPlugin>": {
+        "filename": "[name].css",
+        "id": 1,
+        "options": {}
+      }
+    },
+    {
+      "<CommonsChunkPlugin>": {
+        "chunkNames": [
+          "manifest"
+        ],
+        "filenameTemplate": "manifest.js",
+        "ident": "E:\\my-project\\beidou-1000\\react-redux-router-typescript\\node_modules\\webpack\\lib\\optimize\\CommonsChunkPlugin.js0"
+      }
+    },
+    {
+      "<DefinePlugin>": {
+        "definitions": {
+          "process.env.NODE_ENV": "\"development\"",
+          "__CLIENT__": true,
+          "__DEV__": true,
+          "__SERVER__": false
+        }
+      }
+    },
+    {
+      "<NamedModulesPlugin>": {
+        "options": {}
+      }
+    },
+    {
+      "<HotModuleReplacementPlugin>": {
+        "options": {},
+        "fullBuildTimeout": 200,
+        "requestTimeout": 10000
+      }
+    },
+    {
+      "<DefinePlugin>": {
+        "definitions": {
+          "__ENV__": "\"daily\"",
+          "__CLIENT__": true,
+          "__SERVER__": false,
+          "__DEVELOPMENT__": true,
+          "__DEVTOOLS__": true,
+          "__DAILY__": true
+        }
+      }
+    }
+  ],
+  "cache": true,
+  "target": "web",
+  "node": {
+    "console": false,
+    "process": true,
+    "global": true,
+    "Buffer": true,
+    "setImmediate": true,
+    "__filename": "mock",
+    "__dirname": "mock"
+  },
+  "performance": {
+    "maxAssetSize": 250000,
+    "maxEntrypointSize": 250000,
+    "hints": false
+  },
+  "resolveLoader": {
+    "unsafeCache": true,
+    "mainFields": [
+      "loader",
+      "main"
+    ],
+    "extensions": [
+      ".js",
+      ".json"
+    ],
+    "mainFiles": [
+      "index"
+    ],
+    "cacheWithContext": false
+  }
+}

@@ -1,0 +1,33 @@
+2018-09-12 17:40:28,647 ERROR 11216 [-/127.0.0.1/-/369ms GET /test] nodejs.Invariant Violation: Expected function, undefined, null, or array with payload and meta functions for NEWS
+    at invariant (E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\invariant\invariant.js:40:15)
+    at E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\redux-actions\lib\createActions.js:117:29
+    at E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\redux-actions\lib\utils\arrayToObject.js:9:12
+    at Array.reduce (<anonymous>)
+    at exports.default (E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\redux-actions\lib\utils\arrayToObject.js:8:16)
+    at actionMapToActionCreators (E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\redux-actions\lib\createActions.js:115:38)
+    at actionCreatorsFromActionMap (E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\redux-actions\lib\createActions.js:88:28)
+    at Object.createActions (E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\redux-actions\lib\createActions.js:83:23)
+    at Object.<anonymous> (E:\my-project\beidou-1000\react-redux-router-typescript\client\actions\index.ts:3:16)
+    at Module._compile (module.js:652:30)
+name: "Invariant Violation"
+framesToPop: 1
+pid: 11216
+hostname: SC-201803280608
+
+2018-09-12 17:44:16,380 ERROR 15052 [-/127.0.0.1/-/5354ms GET /news] nodejs.ResponseTimeoutError: Response timeout for 5000ms, GET https://newsapi.org/v2/top-headlines?country=us&apiKey=209cd02e74314a32a4e5f1d5b9cbdff1 -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (E:\my-project\beidou-1000\react-redux-router-typescript\node_modules\urllib\lib\urllib.js:832:15)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: "ResponseTimeoutError"
+requestId: 1
+data: undefined
+path: "/v2/top-headlines?country=us&apiKey=209cd02e74314a32a4e5f1d5b9cbdff1"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"headers":{},"size":0,"aborted":false,"rt":5347,"keepAliveSocket":false,"requestUrls":["https://newsapi.org/v2/top-headlines?country=us&apiKey=209cd02e74314a32a4e5f1d5b9cbdff1"],"timing":null,"remoteAddress":"167.114.118.40","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":0}
+pid: 15052
+hostname: SC-201803280608
+
